@@ -98,5 +98,3 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Javanese" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Indonesia",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Javanese" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Indonesia",TEST GTV
-https://linier.rctiplus.id/live/eds/gtv_fta/live_fta/hdntl=exp=1612421995~acl=%2f*~data=hdntl~hmac=444b1114fb734b08c1062795dd7c102f22270dae1565a97e7535d20c9cb64e08/gtv_fta-mp4a_64000=2.m3u8?hdnts=exp=1612336158~hmac=9f90bf332a9b085023786260181340d04d746a68225b0c5b3410d5a29d4c54cc
