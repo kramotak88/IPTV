@@ -35,7 +35,7 @@ http://iamchannel.org:1935/tes/1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://mncchannels.com/files/logo/1440755188_logo_mnc-karaoke.png" tvg-country="ID" tvg-url="" group-title="Indonesia",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040416.png" tvg-country="ID" tvg-url="" group-title="Indonesia",METRO TV
-https://stream-04.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS1Rmym8hgoASLVlsWhvzOII)/dm/3/x75p70w/d/live-0.m3u8
+https://stream-02.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS1Rmym8hgoASLVlsWhvzOII)/dm/3/x75p70w/d/live-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Indonesia",Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADIO51" tvg-language="Indonesian" tvg-logo="Logo N/A" tvg-country="ID" tvg-url="" group-title="Indonesia",Radio 51 TV
