@@ -15,7 +15,7 @@ http://210.210.155.35/session/08b82d0c-676b-11eb-a6ec-a87db698f4db/qwr9ew/s/s08/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Indonesia",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Indonesia",RTV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/ca1a7e40-676c-11eb-adfa-8ff6b75f324c/qwr9ew/s/s12/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Indonesia",SCTV
 http://210.210.155.35/session/61547ade-6765-11eb-8174-b60fbb3636d3/qwr9ew/s/s03/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Indonesia",TVONE
