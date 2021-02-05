@@ -66,3 +66,4 @@ http://210.210.155.35/session/5b1879cc-6788-11eb-b64b-87d5990196e2/qwr9ew/s/s46/
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:group-title="Indonesia",OChannel TV
 https://etslive-2-vidio-com.akamaized.net/exp=1612529543~acl=/hls-p/ingest_206_*/*~hmac=73b71085cadcd2c68aef2da1e7609dc513301f2cf083158db75b97cfadaddccc/hls-p/ingest_206_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1612529543~acl=/hls-p/ingest_206_*/*~hmac=73b71085cadcd2c68aef2da1e7609dc513301f2cf083158db75b97cfadaddccc/hls-p/ingest_206_480p/index.m3u8
