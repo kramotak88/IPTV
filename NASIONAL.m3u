@@ -58,3 +58,9 @@ http://103.30.1.14:8080/hls/live.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:group-title="Indonesia",RODJA TV
 http://210.210.155.35/session/12378d6c-676d-11eb-aa2b-8c8bbd122fc4/qwr9ew/s/s14/02.m3u8
+#EXTINF:group-title="Indonesia",AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:group-title="Indonesia",MY TV
+http://210.210.155.35/session/5b1879cc-6788-11eb-b64b-87d5990196e2/qwr9ew/s/s46/index.m3u8
+#EXTINF:group-title="Indonesia",TV9
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
