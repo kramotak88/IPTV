@@ -64,5 +64,13 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s46/01.m3u8
 #EXTINF:group-title="Indonesia",TV9
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:group-title="Indonesia",KOMPAS TV TES
-rtmp://202.137.11.52:1935/jakarta/offair.sdp
+#EXTINF:group-title="Indonesia",VCHANNEL
+http://210.210.155.35/qwr9ew/s/s41/01.m3u8
+#EXTINF:group-title="Movies",ZEEBIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:group-title="Movies",CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:group-title="Movies",THRILL
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:group-title="Movies",????
+http://210.210.155.35/qwr9ew/s/s42/01.m3u8
