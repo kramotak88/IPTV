@@ -64,3 +64,5 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s46/01.m3u8
 #EXTINF:group-title="Indonesia",TV9
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+#EXTINF:group-title="Indonesia",KOMPAS TV TES
+rtmp://202.137.11.52:1935/jakarta/offair.sdp
